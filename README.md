@@ -31,3 +31,6 @@ Interactive Dashboard Design
 
 ### Store Performance Analysis
 ![Dashboard](images/Screenshot%202026-02-10%20204229.png)
+
+### Product Category Performance
+![Dashboard](images/Screenshot%202026-02-10%20204249.png)
